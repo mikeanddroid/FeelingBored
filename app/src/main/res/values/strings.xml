@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FeelinBored</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="make_random_joke_call">Make Random Joke Call</string>
+    <string name="make_joke_category_call">Make Joke Category Call</string>
+
+    <string name="nav_email_content">com.mike.feelinbored</string>
+    <string name="nav_header">Feelin Bored</string>
+
+</resources>
