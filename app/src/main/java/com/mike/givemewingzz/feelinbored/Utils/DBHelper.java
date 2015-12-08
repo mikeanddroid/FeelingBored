@@ -11,6 +11,7 @@ public class DBHelper {
 
     public static final long SCHEMA_VERSION = 1;
     public static final String REALM_NAME = "feelinbored.realm";
+    public String tesintPR;
 
     public static RealmConfiguration getRealmConfig(Context context) {
         return new RealmConfiguration.Builder(context)
